@@ -2,5 +2,8 @@ body {
   background-color: gray;
 }
 h1 {
+  margin: 0 auto;
+
   background-color: white;
+  text-align: center;
 }
